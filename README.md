@@ -103,11 +103,7 @@ The project uses four relational datasets:
 Pizza-Sales-SQL/
 │── README.md
 │── Pizza_pro.sql
-└── dataset/
-    ├── orders.csv
-    ├── order_details.csv
-    ├── pizzas.csv
-    └── pizza_types.csv
+
 ```
 
 ---
